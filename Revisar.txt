@@ -1,0 +1,37 @@
+
+Header:
+
+  **  -Seleccionar tipo de fuente. 
+  **  -Seleccionar tamaño de la fuente.
+  **  -Menu transparente Top.
+  **  -Menu blanco al hacer scroll.
+  **  -Efecto luminoso en la parte inferior.
+
+Background Section:
+  **  -Seleccionar tipo de fuente.
+  **  -Seleccionar tamaño de la fuente.
+  **  -Seleccionar contenido del background.
+  **  -Animaciones de los textos.
+  **  -Cambiar color de los textos.
+
+About Section:
+  ** -Seleccionar tipo de fuente.
+  ** -Seleccionar tamaño de la fuente.
+  ** -Seleccionar contenido de los textos.
+  ** -Crear estilos para la imagen.
+
+Knowledge Section:
+    -Seleccionar tipo de fuente.
+    -Seleccionar tamaño de la fuente.
+    -Agregar contenidos.
+    -Agregar iconos acorde al contenido.
+        -Agregar efecto radar a los iconos.
+
+
+Works Section:
+    -Modificar tamaño del slider.
+    -Seleccionar imagenes para slider.
+    -Seleccionar tipo de fuente.
+    -Seleccionar tamaño de la fuente.
+
+
